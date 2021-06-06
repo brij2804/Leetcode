@@ -3,14 +3,14 @@
 ## Arrays
 
 |#|Problem Name|Problem Link|Language|Solution Link|
----|---|---|---
+---|---|---|---|---
 |1|Two Sum|[Problem](https://leetcode.com/problems/two-sum/)|java|[Solution](./Arrays/TwoSum.java)|
 
 
 ## LinkedLists
 
 |#|Problem Name|Problem Link|Language|Solution Link|
----|---|---|---
+---|---|---|---|---
 |19|Remove Nth Node From End of List|[Problem](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|java|[Solution](./RemoveNthNodeFromEndofList.java)|
 |61|Rotate List|[Problem](https://leetcode.com/problems/rotate-list/)|java|[Solution](./RotateList.java)|
 |83|Remove Duplicates from Sorted List|[Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|java8|[Solution](./RemoveDuplicatesfromSortedList.java)|
