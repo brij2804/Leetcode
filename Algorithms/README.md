@@ -3,7 +3,8 @@
 |#|Problem Name|Language|Solution Link|
 ---|---|---|---
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|java|[Solution](./TwoSum.java)|
-|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|java|[Solution](./AddTwoNumbers.java.java)|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|java|[Solution](./AddTwoNumbers.java)|
+|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|java|[Solution](./MedianOfTwoSortedArrays.java)|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|java|[Solution](./ReverseInteger.java)|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|java|[Solution](./PalindromeNumber.java)|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|java|[Solution](./RemoveNthNodeFromEndofList.java)|
