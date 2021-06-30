@@ -19,6 +19,7 @@
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|java|[Solution](./DeleteNodeinaLinkedList.java)|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|java|[Solution](./DefanginganIPAddress.java)|
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|java|[Solution](./KidsWiththeGreatestNumberofCandies.java)|
+|1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|java|[Solution](./ShuffletheArray.java)|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|java|[Solution](./RunningSumof1dArray.java)|
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|java|[Solution](./RichestCustomerWealth.java)|
 
