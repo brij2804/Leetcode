@@ -17,6 +17,7 @@
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|java|[Solution](./BinaryTreePreorderTraversal.java)|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|java|[Solution](./BinaryTreePostorderTraversal.java)|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|java|[Solution](./DeleteNodeinaLinkedList.java)|
+|771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|python|[Solution](./JewelsandStones.py)|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|java|[Solution](./DefanginganIPAddress.java)|
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|java|[Solution](./KidsWiththeGreatestNumberofCandies.java)|
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|java|[Solution](./ShuffletheArray.java)|
