@@ -24,6 +24,7 @@
 |1476|[Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/)|java|[Solution](./SubrectangleQueries.java)|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|java|[Solution](./RunningSumof1dArray.java)|
 |1512|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|java|[Solution](./NumberofGoodPairs.java)|
+|1603|[Design Parking System](https://leetcode.com/problems/design-parking-system/)|java|[Solution](./DesignParkingSystem.java)|
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|java|[Solution](./RichestCustomerWealth.java)|
 |1828|[Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/)|java|[Solution](./QueriesonNumberofPointsInsideaCircle.java)|
 |1920|[Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)|java|[Solution](./BuildArrayfromPermutation.java)|
