@@ -13,6 +13,7 @@ Solutions to problems on Leetcode site
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|java|[Solution](./Algorithms/ContainerWithMostWater.java)|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|java|[Solution](./Algorithms/RemoveNthNodeFromEndofList.java)|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|java|[Solution](./Algorithms/MergeTwoSortedLists.java)|
+| 53   | [Maximum SubArray](https://leetcode.com/problems/maximum-subarray/description/)|java| [Solution](./Algorithms/MaxSubArray.java)                          |
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)|java|[Solution](./Algorithms/RotateList.java)|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|java|[Solution](./Algorithms/RemoveDuplicatesfromSortedList.java)|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|java|[Solution](./Algorithms/SameTree.java)|
