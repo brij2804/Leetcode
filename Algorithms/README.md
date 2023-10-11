@@ -19,6 +19,7 @@
 | 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                               | java     | [Solution](./MaximumDepthofBinaryTree.java)             |
 | 144  | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)                           | java     | [Solution](./BinaryTreePreorderTraversal.java)          |
 | 145  | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)                         | java     | [Solution](./BinaryTreePostorderTraversal.java)         |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | java | [Solution](./ContainsDuplicate.java)                     |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | java | [Solution](./InvertBinaryTree.java)                     |
 | 237  | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)                               | java     | [Solution](./DeleteNodeinaLinkedList.java)              |
 | 617  | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)                                                     | java   | [Solution](./MergeTwoBinaryTrees.java)                        |
