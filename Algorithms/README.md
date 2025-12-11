@@ -23,7 +23,8 @@
 | 226  | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)                                       | java | [Solution](./InvertBinaryTree.java)                     |
 | 237  | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)                               | java     | [Solution](./DeleteNodeinaLinkedList.java)              |
 | 617  | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)                                           | java   | [Solution](./MergeTwoBinaryTrees.java)                  |
-| 657  | [Robot Return To Origin](https://leetcode.com/problems/merge-two-binary-trees/)                                           | java   | [Solution](./RobotReturnToOrigin.java)                  |
+| 657  | [Robot Return To Origin](https://leetcode.com/problems/robot-return-to-origin/description/)                                           | java   | [Solution](./RobotReturnToOrigin.java)                  |
+| 704  | [Binary Search](https://leetcode.com/problems/binary-search/)                                                    | java   | [Solution](./BinarySearch.java)                         |
 | 771  | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                                                     | python   | [Solution](./JewelsandStones.py)                        |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)                                         | java     | [Solution](./DefanginganIPAddress.java)                 |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)       | java     | [Solution](./KidsWiththeGreatestNumberofCandies.java)   |
