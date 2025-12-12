@@ -23,6 +23,7 @@
 | 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)                                       | java | [Solution](./ContainsDuplicate.java)                    |
 | 226  | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)                                       | java | [Solution](./InvertBinaryTree.java)                     |
 | 237  | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)                               | java     | [Solution](./DeleteNodeinaLinkedList.java)              |
+| 589  | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/description/)                                           | java   | [Solution](./NaryTreePreorderTraversal.java)                  |
 | 617  | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)                                           | java   | [Solution](./MergeTwoBinaryTrees.java)                  |
 | 657  | [Robot Return To Origin](https://leetcode.com/problems/robot-return-to-origin/description/)                                           | java   | [Solution](./RobotReturnToOrigin.java)                  |
 | 704  | [Binary Search](https://leetcode.com/problems/binary-search/)                                                    | java   | [Solution](./BinarySearch.java)                         |
