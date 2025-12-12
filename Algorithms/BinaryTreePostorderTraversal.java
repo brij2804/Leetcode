@@ -10,19 +10,18 @@
 class Solution {
     public List<Integer> postorderTraversal(TreeNode root) {
 
-        List<Integer> lst = new ArrayList<Integer>();
-        lst = postOrder(root,lst);
-        return lst;
+        List<Integer> output = new ArrayList<Integer>();
+        postOrder(root,output);
+        return output;
 
     }
 
-    private List<Integer> postOrder(TreeNode node, List<Integer> lst){
+    private void postOrder(TreeNode node, List<Integer> output){
         if(node!=null){
-            lst = postOrder(node.left,lst);
-            lst = postOrder(node.right,lst);
-            lst.add(node.val);
+            postOrder(node.left,output);
+            postOrder(node.right,output);
+            output.add(node.val);
         }
-        return lst;
 
     }
 }

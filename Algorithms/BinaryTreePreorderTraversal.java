@@ -1,3 +1,4 @@
+import java.util.ArrayList;
 
 /**
  * Definition for a binary tree node.
@@ -11,23 +12,18 @@
 class Solution {
     public List<Integer> preorderTraversal(TreeNode root) {
 
-        List<Integer> lst = new ArrayList<Integer>();
-
-        lst = preOrder(root,lst);
-
-        return lst;
+        List<Integer> output = new ArrayList<Integer>();
+        preOrder(root,output);
+        return output;
 
     }
 
-    private List<Integer> preOrder(TreeNode node,List<Integer> lst){
-        if(node!=null){
-            lst.add(node.val);
-            lst = preOrder(node.left,lst);
-            lst = preOrder(node.right,lst);
+    private void preOrder(TreeNode node,List<Integer> output){
+        if(node!=null) {
+            output.add(node.val);
+            preOrder(node.left, output);
+            preOrder(node.right, output);
         }
-
-
-        return lst;
     }
 
 }
