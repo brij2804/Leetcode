@@ -13,6 +13,7 @@
 | 53   | [Maximum SubArray](https://leetcode.com/problems/maximum-subarray/description/)                                           | java     | [Solution](./MaxSubArray.java)                          |
 | 61   | [Rotate List](https://leetcode.com/problems/rotate-list/)                                                                 | java     | [Solution](./RotateList.java)                           |
 | 83   | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)                   | java     | [Solution](./RemoveDuplicatesfromSortedList.java)       |
+| 94   | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)                        | java     | [Solution](./BinaryTreeInorderTraversal.java)           |
 | 100  | [Same Tree](https://leetcode.com/problems/same-tree/)                                                                     | java     | [Solution](./SameTree.java)                             |
 | 101  | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)                                               | java     | [Solution](./SymmetricTree.java)                        |
 | 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                               | java     | [Solution](./MaximumDepthofBinaryTree.java)             |
