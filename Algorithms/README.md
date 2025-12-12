@@ -13,7 +13,7 @@
 | 53   | [Maximum SubArray](https://leetcode.com/problems/maximum-subarray/description/)                                           | java     | [Solution](./MaxSubArray.java)                          |
 | 61   | [Rotate List](https://leetcode.com/problems/rotate-list/)                                                                 | java     | [Solution](./RotateList.java)                           |
 | 83   | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)                   | java     | [Solution](./RemoveDuplicatesfromSortedList.java)       |
-| 94   | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)                        | java     | [Solution](./BinaryTreeInorderTraversal.java)           |
+| 94   | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)                 | java     | [Solution](./BinaryTreeInorderTraversal.java)           |
 | 100  | [Same Tree](https://leetcode.com/problems/same-tree/)                                                                     | java     | [Solution](./SameTree.java)                             |
 | 101  | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)                                               | java     | [Solution](./SymmetricTree.java)                        |
 | 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                               | java     | [Solution](./MaximumDepthofBinaryTree.java)             |
@@ -23,10 +23,11 @@
 | 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)                                       | java | [Solution](./ContainsDuplicate.java)                    |
 | 226  | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)                                       | java | [Solution](./InvertBinaryTree.java)                     |
 | 237  | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)                               | java     | [Solution](./DeleteNodeinaLinkedList.java)              |
-| 589  | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/description/)                                           | java   | [Solution](./NaryTreePreorderTraversal.java)                  |
+| 589  | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/description/)                 | java   | [Solution](./NaryTreePreorderTraversal.java)            |
+| 590  | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)                           | java   | [Solution](./NaryTreePostorderTraversal.java)           |
 | 617  | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)                                           | java   | [Solution](./MergeTwoBinaryTrees.java)                  |
-| 657  | [Robot Return To Origin](https://leetcode.com/problems/robot-return-to-origin/description/)                                           | java   | [Solution](./RobotReturnToOrigin.java)                  |
-| 704  | [Binary Search](https://leetcode.com/problems/binary-search/)                                                    | java   | [Solution](./BinarySearch.java)                         |
+| 657  | [Robot Return To Origin](https://leetcode.com/problems/robot-return-to-origin/description/)                               | java   | [Solution](./RobotReturnToOrigin.java)                  |
+| 704  | [Binary Search](https://leetcode.com/problems/binary-search/)                                                             | java   | [Solution](./BinarySearch.java)                         |
 | 771  | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                                                     | python   | [Solution](./JewelsandStones.py)                        |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)                                         | java     | [Solution](./DefanginganIPAddress.java)                 |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)       | java     | [Solution](./KidsWiththeGreatestNumberofCandies.java)   |

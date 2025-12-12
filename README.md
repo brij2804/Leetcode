@@ -27,6 +27,7 @@ Solutions to problems on Leetcode site
 | 226  | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)                                       | java | [Solution](./Algorithms/InvertBinaryTree.java)                     |
 | 237  | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)                               | java     | [Solution](./Algorithms/DeleteNodeinaLinkedList.java)              |
 | 589  | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/description/)                                           | java   | [Solution](./Algorithms/NaryTreePreorderTraversal.java)                  |
+| 590  | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)                           | java   | [Solution](./Algorithms/NaryTreePostorderTraversal.java)           |
 | 617  | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)                                           | java   | [Solution](./Algorithms/MergeTwoBinaryTrees.java)                  |
 | 657  | [Robot Return To Origin](https://leetcode.com/problems/robot-return-to-origin/description/)                               | java   | [Solution](./Algorithms/RobotReturnToOrigin.java)                  |
 | 704  | [Binary Search](https://leetcode.com/problems/binary-search/)                                                             | java   | [Solution](./Algorithms/BinarySearch.java)                         |
